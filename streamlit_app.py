@@ -25,8 +25,7 @@ def load_data():
     with open('data/review_above_85.json') as f:
         word_freq_review_above_85 = json.load(f)
     wc_review_above_85 = WordCloud(background_color="white").generate_from_frequencies(word_freq_review_above_85)
-    # with open('data/availability90_above_60.json') as f:
-    with open('https://drive.google.com/file/d/1SMGHxP3_6hqimkndXV1vHnlUap1mN4rJ/view?usp=sharing') as f:
+    with open('data/availability90_above_60.json') as f:
         word_freq_avail_above_60 = json.load(f)
     wc_avail_above_60 = WordCloud(background_color="white").generate_from_frequencies(word_freq_avail_above_60)
     with open('data/availability90_below_20.json') as f:
