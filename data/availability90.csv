@@ -1,0 +1,1001 @@
+price,review_scores_rating,availability_90,neighbourhood_group_cleansed,host_acceptance_rate,host_response_time,host_identity_verified,host_has_profile_pic,number_of_reviews,instant_bookable,host_is_superhost
+27,60.0,0,Mitte,0,within a day,No,Yes,2,No,No
+22,100.0,0,Neukölln,,,Yes,Yes,7,No,No
+50,100.0,0,Neukölln,,,Yes,Yes,8,No,No
+26,100.0,0,Mitte,100,,Yes,Yes,2,Yes,No
+56,100.0,89,Mitte,61,within a day,Yes,Yes,2,No,No
+100,97.0,10,Treptow - Köpenick,100,within an hour,Yes,Yes,6,No,No
+110,100.0,29,Charlottenburg-Wilm.,100,,Yes,Yes,24,Yes,Yes
+40,80.0,0,Tempelhof - Schöneberg,,,No,Yes,2,No,No
+19,90.0,0,Charlottenburg-Wilm.,72,,Yes,Yes,43,No,No
+70,100.0,89,Friedrichshain-Kreuzberg,55,a few days or more,Yes,Yes,6,No,No
+13,100.0,0,Lichtenberg,,,No,Yes,1,No,No
+36,87.0,0,Friedrichshain-Kreuzberg,,,Yes,Yes,6,No,No
+20,80.0,83,Charlottenburg-Wilm.,82,,Yes,Yes,6,No,No
+60,100.0,90,Pankow,45,within a few hours,Yes,Yes,4,No,Yes
+45,100.0,0,Pankow,100,within a day,No,Yes,6,No,No
+80,90.0,29,Friedrichshain-Kreuzberg,99,within an hour,Yes,Yes,191,Yes,No
+45,99.0,0,Mitte,38,within an hour,Yes,Yes,72,No,Yes
+115,91.0,88,Mitte,100,within an hour,Yes,Yes,181,Yes,No
+49,94.0,75,Mitte,100,within a few hours,No,Yes,34,Yes,No
+80,100.0,0,Friedrichshain-Kreuzberg,83,within an hour,Yes,Yes,4,Yes,No
+40,93.0,90,Charlottenburg-Wilm.,43,within a few hours,Yes,Yes,36,No,No
+64,92.0,0,Mitte,92,,No,Yes,10,Yes,No
+65,100.0,0,Mitte,100,within an hour,No,Yes,3,Yes,No
+141,97.0,60,Mitte,98,within a day,Yes,Yes,8,Yes,No
+78,95.0,0,Neukölln,,,Yes,Yes,31,No,No
+80,99.0,0,Neukölln,71,,Yes,Yes,28,No,Yes
+60,94.0,0,Friedrichshain-Kreuzberg,,,Yes,Yes,7,No,No
+21,100.0,0,Mitte,,,Yes,Yes,3,Yes,No
+35,100.0,0,Mitte,100,,No,Yes,3,No,No
+19,93.0,0,Friedrichshain-Kreuzberg,,,Yes,Yes,3,No,No
+41,100.0,0,Reinickendorf,100,within a few hours,Yes,Yes,2,No,No
+45,91.0,0,Mitte,,,No,Yes,19,No,No
+55,100.0,0,Pankow,,,Yes,Yes,2,Yes,No
+45,100.0,0,Charlottenburg-Wilm.,,,Yes,Yes,2,No,No
+41,97.0,0,Friedrichshain-Kreuzberg,85,within an hour,Yes,Yes,44,Yes,No
+29,80.0,0,Charlottenburg-Wilm.,,,Yes,Yes,2,Yes,No
+106,98.0,79,Friedrichshain-Kreuzberg,25,,Yes,Yes,9,No,No
+41,91.0,90,Friedrichshain-Kreuzberg,,,No,Yes,25,No,No
+48,93.0,77,Pankow,78,within an hour,No,Yes,24,Yes,No
+40,97.0,0,Neukölln,,,Yes,Yes,6,Yes,No
+124,97.0,75,Charlottenburg-Wilm.,31,within an hour,Yes,Yes,29,Yes,No
+40,100.0,88,Marzahn - Hellersdorf,0,a few days or more,No,Yes,6,No,No
+178,99.0,50,Mitte,97,within an hour,Yes,Yes,58,No,Yes
+160,97.0,61,Friedrichshain-Kreuzberg,100,within a few hours,No,Yes,51,Yes,No
+15,100.0,0,Tempelhof - Schöneberg,,,Yes,Yes,8,Yes,No
+130,100.0,0,Pankow,100,within a few hours,No,Yes,1,No,No
+55,100.0,0,Mitte,,,No,Yes,1,Yes,No
+35,100.0,3,Friedrichshain-Kreuzberg,100,within an hour,No,Yes,4,Yes,No
+70,100.0,90,Friedrichshain-Kreuzberg,33,a few days or more,Yes,Yes,1,No,No
+149,93.0,88,Neukölln,50,,No,Yes,3,No,No
+61,94.0,57,Pankow,94,within an hour,Yes,Yes,183,No,No
+80,93.0,87,Friedrichshain-Kreuzberg,100,,No,Yes,3,No,No
+69,92.0,71,Friedrichshain-Kreuzberg,100,within an hour,Yes,Yes,150,Yes,No
+32,90.0,4,Neukölln,60,within an hour,No,Yes,6,Yes,No
+36,97.0,1,Neukölln,92,within an hour,Yes,Yes,20,No,Yes
+18,100.0,0,Charlottenburg-Wilm.,,,No,Yes,2,Yes,No
+50,93.0,87,Mitte,50,,Yes,Yes,4,No,No
+40,100.0,0,Pankow,85,within a day,Yes,Yes,11,No,Yes
+18,100.0,0,Charlottenburg-Wilm.,,,Yes,Yes,3,No,No
+93,93.0,30,Mitte,100,within an hour,Yes,Yes,8,Yes,No
+37,80.0,0,Lichtenberg,50,,Yes,Yes,5,No,No
+110,95.0,15,Friedrichshain-Kreuzberg,100,within an hour,No,Yes,20,No,No
+30,100.0,51,Neukölln,22,within a day,Yes,Yes,10,No,No
+49,99.0,0,Charlottenburg-Wilm.,100,,No,Yes,41,No,Yes
+55,95.0,0,Mitte,,,No,Yes,40,No,No
+27,94.0,0,Charlottenburg-Wilm.,100,within an hour,Yes,Yes,19,Yes,No
+35,90.0,0,Friedrichshain-Kreuzberg,78,within an hour,Yes,No,2,Yes,No
+149,97.0,72,Mitte,100,within an hour,Yes,Yes,15,Yes,Yes
+100,100.0,0,Neukölln,100,within a day,Yes,Yes,5,No,Yes
+14,92.0,90,Mitte,96,within an hour,Yes,Yes,15,Yes,No
+35,92.0,0,Pankow,,,Yes,Yes,47,No,No
+63,96.0,75,Neukölln,93,within an hour,Yes,Yes,89,No,Yes
+75,100.0,88,Mitte,0,,No,Yes,1,No,No
+64,97.0,0,Mitte,,,Yes,Yes,40,No,No
+50,100.0,0,Friedrichshain-Kreuzberg,,,Yes,Yes,1,Yes,No
+60,97.0,0,Friedrichshain-Kreuzberg,94,within a day,Yes,Yes,13,Yes,Yes
+85,92.0,1,Neukölln,89,within an hour,Yes,Yes,10,Yes,No
+41,100.0,0,Tempelhof - Schöneberg,98,within a day,Yes,Yes,2,No,No
+30,100.0,0,Neukölln,,,Yes,Yes,3,No,No
+49,100.0,0,Lichtenberg,43,a few days or more,No,Yes,1,No,No
+21,98.0,43,Mitte,100,within an hour,Yes,Yes,11,Yes,No
+22,97.0,0,Neukölln,,,No,Yes,31,No,No
+125,100.0,1,Mitte,50,,Yes,Yes,12,Yes,Yes
+60,90.0,0,Lichtenberg,,,No,Yes,2,Yes,No
+57,100.0,0,Lichtenberg,,,No,Yes,6,Yes,No
+30,98.0,4,Friedrichshain-Kreuzberg,100,within an hour,Yes,Yes,73,Yes,Yes
+35,96.0,40,Treptow - Köpenick,97,within an hour,Yes,Yes,30,No,Yes
+32,98.0,0,Pankow,,,No,Yes,8,No,No
+9,100.0,0,Mitte,,,No,Yes,1,No,No
+50,96.0,87,Marzahn - Hellersdorf,53,within a day,No,Yes,5,No,No
+45,95.0,0,Friedrichshain-Kreuzberg,56,within a few hours,No,Yes,46,No,Yes
+129,96.0,83,Mitte,100,,Yes,Yes,30,No,No
+50,91.0,88,Friedrichshain-Kreuzberg,63,within an hour,Yes,Yes,11,No,No
+99,88.0,0,Pankow,83,,Yes,Yes,26,Yes,No
+22,100.0,0,Lichtenberg,100,,Yes,Yes,1,Yes,Yes
+75,95.0,63,Tempelhof - Schöneberg,86,within a few hours,Yes,Yes,4,Yes,No
+50,100.0,87,Pankow,,,No,Yes,7,No,No
+42,96.0,18,Lichtenberg,100,,Yes,Yes,17,Yes,No
+90,97.0,0,Friedrichshain-Kreuzberg,50,,No,Yes,6,No,No
+49,99.0,0,Mitte,100,,No,Yes,22,Yes,No
+36,100.0,0,Neukölln,,,Yes,Yes,2,No,No
+20,95.0,23,Neukölln,96,within a day,No,Yes,93,No,Yes
+30,100.0,0,Mitte,,,No,Yes,2,Yes,No
+18,98.0,0,Friedrichshain-Kreuzberg,100,within a few hours,No,Yes,40,No,Yes
+36,100.0,0,Pankow,,,Yes,Yes,3,Yes,No
+41,96.0,0,Reinickendorf,95,,Yes,Yes,156,No,Yes
+150,98.0,0,Friedrichshain-Kreuzberg,92,,Yes,Yes,24,No,Yes
+346,100.0,15,Charlottenburg-Wilm.,33,,Yes,Yes,7,No,No
+20,96.0,0,Neukölln,,,Yes,Yes,27,No,No
+65,90.0,2,Friedrichshain-Kreuzberg,100,within an hour,Yes,Yes,4,Yes,No
+109,93.0,57,Pankow,100,,Yes,Yes,17,No,No
+34,100.0,0,Neukölln,,,No,No,1,Yes,No
+73,100.0,72,Pankow,98,within an hour,Yes,Yes,2,No,Yes
+76,96.0,50,Neukölln,99,within an hour,Yes,Yes,199,No,Yes
+110,100.0,74,Friedrichshain-Kreuzberg,0,,Yes,Yes,2,No,No
+63,94.0,73,Charlottenburg-Wilm.,75,within a few hours,Yes,Yes,33,No,No
+50,97.0,3,Friedrichshain-Kreuzberg,89,within a day,Yes,Yes,9,No,No
+26,97.0,0,Charlottenburg-Wilm.,0,,No,No,6,No,No
+26,88.0,54,Pankow,99,within an hour,Yes,Yes,36,Yes,No
+20,87.0,89,Mitte,99,within an hour,Yes,Yes,70,Yes,No
+23,100.0,0,Friedrichshain-Kreuzberg,,,Yes,Yes,1,Yes,No
+110,100.0,90,Pankow,33,within a few hours,No,Yes,1,Yes,No
+80,85.0,0,Charlottenburg-Wilm.,69,,Yes,Yes,4,Yes,No
+29,91.0,60,Mitte,100,within an hour,Yes,Yes,28,Yes,No
+112,100.0,89,Charlottenburg-Wilm.,,,Yes,Yes,3,No,No
+59,88.0,89,Friedrichshain-Kreuzberg,45,a few days or more,Yes,Yes,10,No,No
+55,94.0,0,Friedrichshain-Kreuzberg,100,,No,Yes,45,Yes,Yes
+30,98.0,26,Steglitz - Zehlendorf,97,within a few hours,Yes,Yes,170,No,Yes
+440,100.0,2,Treptow - Köpenick,100,,Yes,Yes,1,Yes,No
+24,95.0,0,Pankow,50,within a day,Yes,Yes,25,No,Yes
+40,93.0,0,Mitte,,,Yes,Yes,3,Yes,No
+60,100.0,0,Mitte,57,,Yes,Yes,2,Yes,No
+48,100.0,0,Friedrichshain-Kreuzberg,,,Yes,Yes,10,No,No
+30,96.0,16,Treptow - Köpenick,100,within an hour,No,Yes,42,Yes,Yes
+130,90.0,27,Friedrichshain-Kreuzberg,67,within a few hours,Yes,Yes,3,No,No
+40,87.0,25,Mitte,100,within a few hours,Yes,Yes,9,Yes,No
+39,89.0,89,Tempelhof - Schöneberg,0,within a day,Yes,Yes,8,Yes,No
+37,98.0,0,Friedrichshain-Kreuzberg,,,Yes,Yes,8,No,No
+79,99.0,83,Mitte,75,within a few hours,Yes,Yes,66,No,Yes
+38,98.0,90,Pankow,41,within a day,Yes,Yes,32,No,Yes
+28,98.0,84,Neukölln,100,within an hour,Yes,Yes,112,Yes,Yes
+76,98.0,0,Charlottenburg-Wilm.,95,within a few hours,No,Yes,44,No,Yes
+70,100.0,87,Mitte,50,,No,Yes,3,Yes,No
+29,96.0,0,Neukölln,,,No,Yes,29,Yes,No
+92,87.0,57,Friedrichshain-Kreuzberg,77,within a day,Yes,Yes,29,No,No
+74,93.0,86,Pankow,50,within a few hours,No,Yes,17,No,No
+194,96.0,48,Friedrichshain-Kreuzberg,81,within an hour,Yes,Yes,25,Yes,Yes
+62,88.0,26,Mitte,100,within an hour,Yes,Yes,328,Yes,No
+25,93.0,0,Reinickendorf,75,within a day,No,Yes,18,Yes,No
+34,90.0,42,Charlottenburg-Wilm.,100,within an hour,Yes,Yes,6,Yes,No
+92,100.0,44,Friedrichshain-Kreuzberg,40,,No,Yes,15,No,No
+35,96.0,0,Friedrichshain-Kreuzberg,89,within an hour,Yes,Yes,5,Yes,No
+30,98.0,1,Lichtenberg,67,within a few hours,Yes,Yes,21,Yes,No
+35,89.0,0,Friedrichshain-Kreuzberg,100,,Yes,Yes,13,No,No
+50,80.0,0,Charlottenburg-Wilm.,0,,No,Yes,1,Yes,No
+45,96.0,0,Mitte,60,within a few hours,No,Yes,11,No,No
+55,80.0,0,Neukölln,,,Yes,Yes,1,No,No
+50,94.0,90,Friedrichshain-Kreuzberg,48,within an hour,No,Yes,60,No,No
+92,96.0,29,Pankow,70,within a day,Yes,Yes,206,No,No
+90,99.0,0,Friedrichshain-Kreuzberg,,,No,Yes,16,No,No
+60,100.0,0,Pankow,33,,Yes,Yes,1,No,No
+39,96.0,1,Mitte,70,within an hour,Yes,Yes,22,No,No
+37,97.0,71,Charlottenburg-Wilm.,100,within an hour,Yes,Yes,71,Yes,No
+90,98.0,0,Pankow,,,Yes,Yes,10,No,No
+170,98.0,1,Charlottenburg-Wilm.,0,,Yes,Yes,22,No,No
+38,90.0,0,Lichtenberg,50,within a day,Yes,Yes,2,Yes,Yes
+38,96.0,45,Pankow,100,within an hour,Yes,Yes,153,Yes,Yes
+33,98.0,84,Neukölln,98,within an hour,No,Yes,20,No,Yes
+50,74.0,90,Pankow,100,within an hour,No,Yes,7,Yes,No
+26,80.0,0,Neukölln,,,No,Yes,7,No,No
+61,92.0,16,Friedrichshain-Kreuzberg,96,,No,Yes,13,Yes,No
+40,90.0,0,Mitte,,,No,Yes,2,No,No
+45,95.0,16,Neukölln,100,within an hour,Yes,Yes,16,Yes,No
+83,95.0,59,Friedrichshain-Kreuzberg,99,within an hour,Yes,Yes,8,Yes,Yes
+125,96.0,59,Pankow,93,within an hour,No,Yes,43,Yes,Yes
+120,60.0,59,Charlottenburg-Wilm.,100,within a few hours,Yes,Yes,1,Yes,No
+29,96.0,0,Mitte,100,,Yes,Yes,10,Yes,No
+52,95.0,59,Friedrichshain-Kreuzberg,86,,No,Yes,16,Yes,No
+186,87.0,90,Mitte,96,within an hour,Yes,Yes,142,Yes,No
+30,100.0,0,Neukölln,,,Yes,Yes,7,No,No
+95,99.0,89,Friedrichshain-Kreuzberg,50,within a few hours,Yes,Yes,34,No,No
+23,100.0,59,Reinickendorf,89,within a few hours,Yes,Yes,1,No,No
+35,93.0,90,Tempelhof - Schöneberg,82,within a few hours,No,Yes,27,No,Yes
+60,86.0,88,Lichtenberg,56,within a day,Yes,Yes,15,No,No
+30,88.0,77,Neukölln,100,within a few hours,Yes,Yes,25,No,No
+54,91.0,80,Charlottenburg-Wilm.,98,within an hour,Yes,Yes,66,No,No
+59,95.0,0,Charlottenburg-Wilm.,92,within an hour,Yes,Yes,59,No,No
+38,98.0,27,Pankow,67,a few days or more,Yes,Yes,10,No,Yes
+27,100.0,0,Neukölln,100,,No,No,15,Yes,No
+40,93.0,0,Neukölln,0,within a day,Yes,Yes,10,No,No
+23,73.0,0,Friedrichshain-Kreuzberg,,,No,Yes,3,Yes,No
+80,91.0,90,Charlottenburg-Wilm.,15,a few days or more,Yes,Yes,69,No,No
+71,94.0,45,Pankow,100,within a few hours,Yes,Yes,22,Yes,Yes
+28,100.0,0,Neukölln,40,within an hour,Yes,Yes,6,No,No
+13,83.0,87,Friedrichshain-Kreuzberg,95,within an hour,Yes,Yes,54,Yes,No
+80,94.0,0,Neukölln,0,,Yes,Yes,23,Yes,No
+64,95.0,0,Friedrichshain-Kreuzberg,,,Yes,Yes,4,No,No
+135,100.0,0,Lichtenberg,100,,Yes,Yes,1,Yes,No
+41,77.0,87,Tempelhof - Schöneberg,98,within a day,Yes,Yes,19,No,No
+85,100.0,0,Pankow,93,within a day,Yes,Yes,3,Yes,Yes
+39,94.0,9,Neukölln,100,within an hour,No,Yes,18,Yes,Yes
+90,100.0,0,Neukölln,,,No,Yes,2,No,No
+22,100.0,0,Friedrichshain-Kreuzberg,,,No,Yes,1,Yes,No
+45,100.0,0,Friedrichshain-Kreuzberg,,,Yes,Yes,6,No,No
+30,100.0,0,Steglitz - Zehlendorf,89,within an hour,No,Yes,3,Yes,No
+76,98.0,61,Neukölln,100,within an hour,Yes,Yes,328,Yes,Yes
+45,96.0,59,Tempelhof - Schöneberg,98,within a few hours,No,Yes,25,No,Yes
+35,95.0,0,Neukölln,,,No,Yes,4,Yes,No
+150,100.0,61,Pankow,100,within an hour,No,Yes,1,No,No
+109,97.0,86,Mitte,86,within an hour,Yes,Yes,48,No,Yes
+35,97.0,90,Steglitz - Zehlendorf,75,within a few hours,Yes,Yes,38,No,Yes
+31,94.0,0,Mitte,100,within an hour,Yes,Yes,123,Yes,No
+65,89.0,83,Mitte,100,within an hour,Yes,Yes,108,Yes,No
+28,100.0,0,Tempelhof - Schöneberg,,,No,Yes,1,No,No
+34,86.0,79,Pankow,50,within a day,Yes,Yes,14,No,No
+100,100.0,0,Pankow,,,Yes,Yes,2,No,No
+55,88.0,64,Pankow,93,within an hour,Yes,Yes,138,No,No
+200,100.0,0,Mitte,100,within an hour,Yes,Yes,5,No,No
+116,92.0,0,Charlottenburg-Wilm.,100,within a few hours,Yes,Yes,68,No,No
+96,95.0,85,Mitte,78,within an hour,Yes,Yes,128,No,No
+25,92.0,0,Charlottenburg-Wilm.,100,,No,Yes,54,Yes,No
+50,92.0,28,Friedrichshain-Kreuzberg,100,,Yes,Yes,5,Yes,No
+323,100.0,87,Pankow,97,within an hour,Yes,Yes,50,No,Yes
+41,100.0,38,Pankow,90,within a few hours,Yes,Yes,21,Yes,No
+103,98.0,74,Friedrichshain-Kreuzberg,98,within an hour,No,Yes,270,No,Yes
+215,100.0,0,Friedrichshain-Kreuzberg,,,Yes,Yes,1,Yes,No
+70,100.0,0,Friedrichshain-Kreuzberg,,,No,Yes,1,No,No
+158,94.0,78,Tempelhof - Schöneberg,100,within an hour,Yes,Yes,93,No,No
+60,96.0,0,Friedrichshain-Kreuzberg,81,within a few hours,Yes,Yes,9,Yes,Yes
+100,95.0,90,Mitte,99,within an hour,Yes,Yes,57,No,No
+55,80.0,0,Neukölln,,,Yes,Yes,1,No,No
+75,96.0,13,Mitte,100,within an hour,Yes,Yes,32,No,No
+140,100.0,73,Pankow,67,within a day,Yes,Yes,13,No,No
+37,99.0,78,Tempelhof - Schöneberg,93,within a few hours,Yes,Yes,86,No,Yes
+60,100.0,0,Charlottenburg-Wilm.,100,,Yes,Yes,1,Yes,No
+89,93.0,42,Friedrichshain-Kreuzberg,99,within an hour,Yes,Yes,45,Yes,No
+290,80.0,83,Charlottenburg-Wilm.,,,Yes,Yes,1,No,No
+35,96.0,0,Charlottenburg-Wilm.,,,No,Yes,23,Yes,No
+89,85.0,70,Mitte,100,within an hour,Yes,Yes,237,Yes,No
+35,96.0,48,Charlottenburg-Wilm.,41,within a day,Yes,Yes,32,No,No
+275,100.0,88,Lichtenberg,50,within a day,Yes,Yes,2,No,No
+33,89.0,0,Friedrichshain-Kreuzberg,,,Yes,Yes,7,Yes,No
+60,90.0,0,Friedrichshain-Kreuzberg,,,Yes,Yes,5,No,No
+45,80.0,89,Charlottenburg-Wilm.,40,,Yes,Yes,4,No,No
+43,94.0,85,Mitte,100,within an hour,Yes,Yes,371,Yes,Yes
+22,100.0,0,Tempelhof - Schöneberg,,,Yes,Yes,2,No,No
+54,95.0,82,Pankow,69,within a day,Yes,Yes,30,No,No
+90,70.0,72,Treptow - Köpenick,50,within a few hours,Yes,Yes,2,No,No
+30,90.0,0,Mitte,67,,No,Yes,2,Yes,No
+60,85.0,73,Mitte,100,within an hour,Yes,Yes,15,Yes,No
+90,94.0,0,Steglitz - Zehlendorf,100,,No,Yes,10,Yes,No
+70,93.0,0,Pankow,80,,Yes,Yes,3,No,No
+90,94.0,0,Mitte,83,within an hour,Yes,Yes,67,No,Yes
+62,93.0,0,Charlottenburg-Wilm.,,,Yes,Yes,3,No,No
+70,100.0,89,Charlottenburg-Wilm.,75,,No,Yes,3,No,No
+60,100.0,0,Treptow - Köpenick,33,,Yes,Yes,3,No,No
+54,97.0,76,Tempelhof - Schöneberg,97,within an hour,Yes,Yes,290,No,No
+21,96.0,1,Charlottenburg-Wilm.,70,within an hour,No,Yes,168,No,Yes
+41,95.0,80,Charlottenburg-Wilm.,97,within an hour,No,Yes,17,No,No
+35,95.0,0,Pankow,50,,No,Yes,11,No,No
+165,99.0,80,Mitte,70,within an hour,Yes,Yes,176,No,Yes
+89,100.0,0,Friedrichshain-Kreuzberg,100,within an hour,Yes,Yes,9,No,No
+30,100.0,0,Neukölln,83,,Yes,Yes,3,No,No
+49,95.0,8,Neukölln,93,within a day,No,Yes,12,Yes,No
+33,80.0,0,Mitte,,,Yes,Yes,2,No,No
+35,93.0,0,Tempelhof - Schöneberg,,,No,Yes,12,No,No
+25,97.0,28,Pankow,81,within a few hours,Yes,Yes,204,No,Yes
+61,93.0,0,Neukölln,,,Yes,Yes,22,Yes,No
+25,100.0,0,Charlottenburg-Wilm.,,,Yes,Yes,1,No,No
+38,98.0,0,Friedrichshain-Kreuzberg,73,,No,Yes,10,Yes,Yes
+65,94.0,87,Tempelhof - Schöneberg,100,,No,Yes,25,No,No
+30,90.0,0,Treptow - Köpenick,,,No,Yes,2,No,No
+15,87.0,0,Steglitz - Zehlendorf,,,No,Yes,3,Yes,No
+125,84.0,87,Neukölln,40,,No,Yes,28,No,No
+39,98.0,74,Tempelhof - Schöneberg,71,within an hour,Yes,Yes,34,No,Yes
+120,90.0,0,Friedrichshain-Kreuzberg,100,,Yes,Yes,4,No,No
+25,60.0,0,Tempelhof - Schöneberg,,,No,Yes,5,No,No
+69,91.0,39,Reinickendorf,100,within an hour,Yes,Yes,38,Yes,No
+15,93.0,0,Friedrichshain-Kreuzberg,50,within a day,Yes,Yes,12,No,No
+45,93.0,0,Friedrichshain-Kreuzberg,,,No,Yes,3,No,No
+400,84.0,0,Pankow,100,,Yes,Yes,69,Yes,No
+40,89.0,0,Friedrichshain-Kreuzberg,,,Yes,Yes,17,No,No
+55,100.0,1,Friedrichshain-Kreuzberg,100,,Yes,Yes,2,Yes,No
+65,100.0,0,Friedrichshain-Kreuzberg,,,No,Yes,1,No,No
+80,96.0,71,Tempelhof - Schöneberg,96,within a few hours,No,Yes,184,No,Yes
+89,88.0,0,Mitte,97,within a day,Yes,Yes,123,Yes,No
+119,100.0,0,Charlottenburg-Wilm.,,,No,Yes,3,Yes,No
+20,100.0,29,Neukölln,0,a few days or more,Yes,Yes,2,No,No
+50,100.0,0,Charlottenburg-Wilm.,,,No,Yes,1,No,No
+34,95.0,73,Mitte,100,within an hour,Yes,Yes,110,Yes,Yes
+50,96.0,90,Charlottenburg-Wilm.,50,,Yes,Yes,15,No,No
+23,92.0,60,Treptow - Köpenick,76,within a few hours,Yes,Yes,122,No,No
+60,100.0,28,Pankow,50,within an hour,Yes,Yes,1,Yes,No
+36,100.0,16,Mitte,100,within an hour,Yes,Yes,7,Yes,No
+75,97.0,5,Pankow,90,within an hour,Yes,Yes,19,No,Yes
+45,89.0,88,Tempelhof - Schöneberg,31,within a day,No,Yes,10,No,No
+30,94.0,0,Mitte,50,,Yes,Yes,7,No,No
+115,97.0,37,Neukölln,60,within an hour,Yes,Yes,12,No,No
+33,100.0,0,Friedrichshain-Kreuzberg,40,,Yes,Yes,11,No,No
+230,100.0,0,Friedrichshain-Kreuzberg,,,Yes,Yes,7,Yes,No
+45,100.0,0,Friedrichshain-Kreuzberg,100,,Yes,Yes,14,No,Yes
+30,99.0,0,Friedrichshain-Kreuzberg,88,within an hour,Yes,Yes,41,No,Yes
+50,100.0,0,Neukölln,100,within an hour,Yes,Yes,6,No,No
+24,85.0,0,Mitte,,,Yes,Yes,4,No,No
+75,100.0,59,Friedrichshain-Kreuzberg,67,,Yes,Yes,5,No,No
+76,91.0,86,Mitte,95,within an hour,Yes,Yes,82,No,No
+129,96.0,0,Neukölln,25,,Yes,Yes,5,No,No
+36,100.0,89,Reinickendorf,60,within a day,Yes,Yes,5,No,Yes
+65,82.0,74,Lichtenberg,92,within an hour,Yes,Yes,45,No,No
+81,100.0,0,Treptow - Köpenick,67,,No,Yes,3,No,Yes
+45,100.0,37,Tempelhof - Schöneberg,100,within an hour,Yes,Yes,2,No,No
+30,94.0,32,Neukölln,70,within a day,No,Yes,7,No,No
+103,93.0,0,Mitte,,,No,Yes,41,No,No
+50,93.0,69,Pankow,94,within an hour,Yes,Yes,71,Yes,No
+77,99.0,63,Pankow,99,within a few hours,Yes,Yes,220,No,Yes
+98,100.0,17,Pankow,41,within a day,Yes,Yes,32,No,No
+38,100.0,0,Friedrichshain-Kreuzberg,100,,No,Yes,3,Yes,No
+80,94.0,41,Neukölln,99,within an hour,Yes,Yes,311,Yes,No
+44,100.0,89,Friedrichshain-Kreuzberg,100,within a few hours,No,Yes,1,No,No
+108,96.0,80,Pankow,100,within an hour,Yes,Yes,112,No,Yes
+35,98.0,0,Friedrichshain-Kreuzberg,,,Yes,Yes,8,No,No
+35,98.0,0,Neukölln,50,,Yes,Yes,50,No,No
+174,99.0,67,Mitte,83,within a few hours,Yes,Yes,17,No,Yes
+90,100.0,41,Charlottenburg-Wilm.,100,,Yes,Yes,18,No,Yes
+40,98.0,81,Mitte,100,within an hour,Yes,Yes,8,No,Yes
+22,95.0,58,Lichtenberg,100,within an hour,Yes,Yes,87,Yes,No
+135,100.0,90,Mitte,98,within an hour,Yes,Yes,9,Yes,Yes
+40,100.0,83,Neukölln,40,within an hour,Yes,Yes,1,No,No
+200,98.0,57,Charlottenburg-Wilm.,100,within a few hours,Yes,Yes,58,Yes,Yes
+95,90.0,90,Steglitz - Zehlendorf,30,within a few hours,No,Yes,2,No,No
+84,86.0,83,Tempelhof - Schöneberg,57,within a day,No,Yes,26,No,No
+125,96.0,50,Charlottenburg-Wilm.,80,within a day,Yes,Yes,78,No,Yes
+53,80.0,5,Mitte,97,within an hour,Yes,Yes,1,Yes,No
+50,96.0,0,Tempelhof - Schöneberg,,,Yes,Yes,12,Yes,No
+85,93.0,81,Mitte,99,within an hour,Yes,Yes,93,No,Yes
+42,96.0,31,Mitte,69,within a day,Yes,Yes,54,No,No
+34,87.0,0,Charlottenburg-Wilm.,100,,Yes,Yes,132,Yes,No
+129,100.0,0,Pankow,,,Yes,Yes,5,Yes,No
+31,98.0,18,Charlottenburg-Wilm.,85,within an hour,No,Yes,238,No,Yes
+41,98.0,6,Mitte,100,within an hour,Yes,Yes,10,Yes,Yes
+54,100.0,16,Pankow,100,within an hour,Yes,Yes,11,Yes,No
+43,94.0,0,Friedrichshain-Kreuzberg,,,No,Yes,7,Yes,No
+190,100.0,0,Friedrichshain-Kreuzberg,0,,No,Yes,2,Yes,No
+41,94.0,0,Mitte,,,No,Yes,18,Yes,No
+93,89.0,90,Mitte,96,within a few hours,Yes,Yes,9,No,No
+30,87.0,0,Neukölln,,,Yes,Yes,4,No,No
+160,98.0,88,Mitte,88,within a day,Yes,Yes,13,No,Yes
+31,60.0,31,Mitte,85,within an hour,Yes,Yes,1,Yes,No
+65,95.0,38,Tempelhof - Schöneberg,100,within an hour,Yes,Yes,77,Yes,No
+50,98.0,90,Pankow,59,within an hour,Yes,Yes,132,No,Yes
+39,90.0,15,Neukölln,100,within an hour,Yes,Yes,2,Yes,No
+20,100.0,49,Pankow,100,within a few hours,Yes,Yes,2,No,No
+129,98.0,0,Friedrichshain-Kreuzberg,0,within a few hours,No,Yes,24,No,No
+80,100.0,0,Lichtenberg,,,No,Yes,1,No,No
+18,100.0,0,Friedrichshain-Kreuzberg,,,No,Yes,1,No,No
+30,89.0,61,Mitte,70,within an hour,Yes,Yes,7,No,No
+80,93.0,73,Pankow,100,within an hour,Yes,Yes,42,Yes,No
+35,100.0,0,Neukölln,83,within a few hours,Yes,Yes,1,No,No
+75,95.0,30,Friedrichshain-Kreuzberg,80,within a day,Yes,Yes,32,No,Yes
+30,99.0,0,Treptow - Köpenick,,,Yes,Yes,21,Yes,No
+43,97.0,63,Pankow,100,within an hour,Yes,Yes,192,Yes,Yes
+27,97.0,30,Neukölln,95,within a few hours,No,Yes,187,No,Yes
+44,89.0,77,Pankow,100,within an hour,Yes,Yes,80,Yes,No
+126,81.0,5,Mitte,93,within an hour,Yes,Yes,16,Yes,No
+111,100.0,68,Mitte,100,within an hour,Yes,Yes,14,No,Yes
+35,100.0,29,Mitte,80,within a day,Yes,Yes,7,No,Yes
+99,96.0,54,Mitte,97,within an hour,Yes,Yes,52,Yes,No
+165,100.0,88,Mitte,16,,Yes,Yes,3,No,No
+56,98.0,89,Charlottenburg-Wilm.,67,within a few hours,No,Yes,11,No,No
+48,98.0,72,Charlottenburg-Wilm.,20,within a day,Yes,Yes,48,No,No
+31,100.0,0,Friedrichshain-Kreuzberg,,,Yes,Yes,3,Yes,No
+90,92.0,0,Tempelhof - Schöneberg,,within an hour,Yes,Yes,5,Yes,No
+48,94.0,7,Mitte,58,within an hour,Yes,Yes,16,No,Yes
+70,91.0,0,Friedrichshain-Kreuzberg,,,No,Yes,13,Yes,No
+79,80.0,89,Marzahn - Hellersdorf,100,,No,Yes,7,No,No
+90,100.0,0,Lichtenberg,100,,No,Yes,3,Yes,No
+20,100.0,0,Neukölln,18,,Yes,Yes,5,No,No
+35,94.0,88,Neukölln,94,within a few hours,Yes,Yes,57,No,No
+50,96.0,0,Mitte,100,,Yes,Yes,5,Yes,No
+27,100.0,0,Pankow,,,Yes,Yes,3,No,No
+70,85.0,9,Friedrichshain-Kreuzberg,86,within a day,Yes,Yes,4,No,No
+120,98.0,0,Pankow,,,Yes,Yes,105,Yes,No
+59,97.0,72,Charlottenburg-Wilm.,100,within an hour,Yes,Yes,195,No,Yes
+45,93.0,87,Charlottenburg-Wilm.,50,,Yes,Yes,16,No,No
+69,96.0,48,Charlottenburg-Wilm.,100,within an hour,Yes,Yes,21,No,No
+54,97.0,90,Mitte,68,within an hour,Yes,Yes,27,No,No
+23,95.0,60,Neukölln,70,within a day,No,Yes,33,Yes,No
+30,80.0,0,Friedrichshain-Kreuzberg,,,Yes,Yes,1,No,No
+67,80.0,0,Neukölln,100,within an hour,Yes,Yes,15,Yes,No
+91,87.0,89,Friedrichshain-Kreuzberg,75,,Yes,Yes,28,Yes,No
+100,98.0,49,Reinickendorf,100,within an hour,Yes,Yes,11,No,Yes
+38,96.0,90,Mitte,80,within a few hours,Yes,Yes,67,No,Yes
+77,90.0,0,Lichtenberg,100,,Yes,Yes,8,No,Yes
+59,98.0,0,Charlottenburg-Wilm.,95,,No,Yes,27,No,No
+70,87.0,0,Mitte,67,,Yes,Yes,3,No,No
+84,97.0,0,Neukölln,100,within an hour,Yes,Yes,206,Yes,Yes
+50,100.0,30,Mitte,100,within an hour,Yes,Yes,1,Yes,No
+30,94.0,0,Tempelhof - Schöneberg,,,No,Yes,7,Yes,No
+15,73.0,85,Treptow - Köpenick,90,within a day,No,Yes,3,No,No
+39,96.0,6,Friedrichshain-Kreuzberg,100,within a few hours,Yes,Yes,45,No,No
+120,96.0,89,Mitte,97,within an hour,Yes,Yes,39,No,Yes
+40,100.0,0,Neukölln,50,,No,Yes,11,No,No
+32,100.0,0,Tempelhof - Schöneberg,,,Yes,Yes,5,Yes,No
+35,95.0,0,Friedrichshain-Kreuzberg,,,No,Yes,5,Yes,No
+25,100.0,0,Friedrichshain-Kreuzberg,,,Yes,Yes,2,Yes,No
+80,100.0,0,Friedrichshain-Kreuzberg,86,,No,Yes,2,No,No
+62,100.0,4,Friedrichshain-Kreuzberg,97,within an hour,No,Yes,4,Yes,Yes
+50,100.0,0,Pankow,100,within a day,Yes,Yes,10,No,No
+165,95.0,89,Friedrichshain-Kreuzberg,50,,Yes,Yes,36,No,No
+30,96.0,0,Treptow - Köpenick,89,,Yes,Yes,55,No,Yes
+37,100.0,0,Mitte,33,within a day,Yes,Yes,9,No,No
+80,90.0,88,Neukölln,,,No,Yes,4,No,No
+23,88.0,64,Charlottenburg-Wilm.,100,within an hour,Yes,Yes,8,Yes,No
+110,100.0,90,Mitte,100,within an hour,Yes,Yes,19,Yes,Yes
+49,97.0,61,Mitte,100,within an hour,Yes,Yes,420,No,Yes
+129,100.0,0,Tempelhof - Schöneberg,95,within an hour,Yes,Yes,4,No,No
+56,99.0,0,Charlottenburg-Wilm.,100,,No,Yes,16,Yes,Yes
+50,93.0,66,Pankow,81,within an hour,Yes,Yes,12,No,Yes
+26,100.0,0,Reinickendorf,50,within a few hours,Yes,Yes,2,No,No
+167,100.0,68,Mitte,97,within an hour,Yes,Yes,5,Yes,Yes
+137,95.0,0,Tempelhof - Schöneberg,99,a few days or more,Yes,Yes,4,Yes,Yes
+144,100.0,75,Pankow,87,within a few hours,Yes,Yes,2,Yes,Yes
+25,100.0,0,Friedrichshain-Kreuzberg,,,Yes,Yes,1,No,No
+38,76.0,0,Pankow,,,Yes,Yes,5,No,No
+45,100.0,89,Charlottenburg-Wilm.,64,within an hour,No,Yes,1,Yes,No
+80,94.0,55,Friedrichshain-Kreuzberg,100,within an hour,Yes,Yes,28,Yes,Yes
+60,100.0,88,Tempelhof - Schöneberg,,,Yes,Yes,18,No,No
+23,100.0,0,Mitte,,,Yes,Yes,5,No,No
+50,100.0,0,Steglitz - Zehlendorf,,,Yes,Yes,1,Yes,No
+25,90.0,0,Pankow,,,Yes,Yes,3,No,No
+155,93.0,56,Tempelhof - Schöneberg,100,,Yes,Yes,22,No,Yes
+120,95.0,9,Tempelhof - Schöneberg,67,within a few hours,Yes,Yes,4,No,No
+25,94.0,0,Friedrichshain-Kreuzberg,,,No,Yes,7,No,No
+15,100.0,0,Charlottenburg-Wilm.,,,No,Yes,1,No,No
+85,96.0,30,Mitte,99,within an hour,Yes,Yes,74,No,Yes
+80,96.0,84,Friedrichshain-Kreuzberg,76,within a few hours,Yes,Yes,101,No,Yes
+62,88.0,59,Mitte,100,within an hour,Yes,Yes,8,No,No
+20,80.0,0,Friedrichshain-Kreuzberg,,,No,Yes,1,No,No
+24,96.0,0,Mitte,,,Yes,Yes,11,No,No
+33,90.0,0,Neukölln,,,No,Yes,5,No,No
+60,100.0,90,Neukölln,100,,Yes,Yes,2,Yes,Yes
+40,100.0,0,Lichtenberg,,,Yes,Yes,5,No,No
+42,100.0,0,Friedrichshain-Kreuzberg,,,Yes,Yes,2,Yes,No
+25,91.0,0,Charlottenburg-Wilm.,60,,Yes,Yes,7,No,No
+39,85.0,0,Mitte,46,,Yes,Yes,4,No,No
+38,100.0,0,Friedrichshain-Kreuzberg,,,Yes,Yes,1,Yes,No
+40,87.0,0,Pankow,,,No,Yes,3,Yes,No
+50,100.0,2,Tempelhof - Schöneberg,67,,Yes,Yes,15,No,Yes
+38,97.0,61,Pankow,100,within a few hours,Yes,Yes,88,Yes,Yes
+45,100.0,0,Friedrichshain-Kreuzberg,,,Yes,Yes,5,Yes,No
+54,93.0,1,Tempelhof - Schöneberg,96,within an hour,Yes,Yes,3,No,No
+35,98.0,76,Pankow,100,within an hour,Yes,Yes,150,Yes,Yes
+23,90.0,0,Reinickendorf,,,No,Yes,2,Yes,No
+50,100.0,0,Neukölln,63,within a day,Yes,Yes,7,No,No
+79,95.0,0,Steglitz - Zehlendorf,100,within a day,No,Yes,4,No,No
+36,96.0,34,Friedrichshain-Kreuzberg,90,within a few hours,Yes,Yes,225,No,No
+90,95.0,0,Friedrichshain-Kreuzberg,,,Yes,Yes,8,No,No
+60,100.0,1,Tempelhof - Schöneberg,0,,No,Yes,19,No,No
+39,94.0,8,Mitte,67,within a day,Yes,Yes,29,No,No
+20,93.0,52,Neukölln,66,within an hour,Yes,Yes,38,No,No
+50,95.0,0,Charlottenburg-Wilm.,100,,Yes,Yes,4,Yes,No
+51,100.0,89,Steglitz - Zehlendorf,100,within a few hours,Yes,Yes,1,Yes,No
+55,100.0,0,Charlottenburg-Wilm.,57,,No,Yes,6,No,No
+65,100.0,0,Charlottenburg-Wilm.,60,,Yes,Yes,1,No,Yes
+106,99.0,54,Friedrichshain-Kreuzberg,100,within an hour,Yes,Yes,138,No,Yes
+150,100.0,0,Friedrichshain-Kreuzberg,50,,No,Yes,9,Yes,No
+30,90.0,0,Pankow,43,within a few hours,Yes,Yes,3,No,No
+86,97.0,84,Friedrichshain-Kreuzberg,100,within an hour,Yes,Yes,57,Yes,Yes
+35,97.0,67,Neukölln,0,,No,Yes,7,Yes,No
+40,96.0,84,Pankow,94,a few days or more,Yes,Yes,35,Yes,No
+30,100.0,0,Neukölln,,,No,Yes,8,No,No
+85,96.0,0,Tempelhof - Schöneberg,38,within a few hours,Yes,Yes,48,No,No
+138,99.0,67,Mitte,97,within an hour,Yes,Yes,35,Yes,Yes
+85,100.0,24,Tempelhof - Schöneberg,100,within an hour,Yes,Yes,2,Yes,No
+50,100.0,0,Friedrichshain-Kreuzberg,71,a few days or more,Yes,Yes,2,No,No
+40,97.0,0,Friedrichshain-Kreuzberg,100,,No,Yes,14,Yes,Yes
+37,92.0,89,Pankow,20,,Yes,Yes,39,No,Yes
+26,100.0,0,Pankow,,,Yes,Yes,2,No,No
+164,100.0,87,Friedrichshain-Kreuzberg,50,,Yes,Yes,1,No,No
+20,100.0,0,Charlottenburg-Wilm.,,,Yes,Yes,2,Yes,No
+45,97.0,0,Pankow,97,within an hour,Yes,Yes,293,Yes,Yes
+189,50.0,89,Mitte,86,a few days or more,No,Yes,4,No,No
+20,80.0,0,Mitte,,,Yes,Yes,2,No,No
+49,98.0,61,Mitte,91,within an hour,No,Yes,84,No,Yes
+60,93.0,85,Pankow,100,within an hour,No,Yes,22,Yes,No
+48,95.0,29,Pankow,100,within an hour,Yes,Yes,105,Yes,Yes
+25,100.0,0,Friedrichshain-Kreuzberg,,,No,Yes,2,Yes,No
+85,100.0,0,Friedrichshain-Kreuzberg,,,Yes,Yes,4,No,No
+88,96.0,86,Friedrichshain-Kreuzberg,100,within an hour,Yes,Yes,16,Yes,No
+79,98.0,62,Neukölln,100,within an hour,Yes,Yes,61,Yes,Yes
+35,100.0,15,Neukölln,43,within a day,Yes,Yes,10,No,No
+85,93.0,0,Mitte,,,Yes,Yes,8,No,No
+59,99.0,87,Neukölln,68,,Yes,Yes,34,No,Yes
+89,96.0,64,Friedrichshain-Kreuzberg,100,within an hour,Yes,Yes,67,Yes,Yes
+50,98.0,0,Friedrichshain-Kreuzberg,,,Yes,Yes,10,No,No
+30,96.0,0,Friedrichshain-Kreuzberg,,,Yes,Yes,6,Yes,No
+72,98.0,0,Friedrichshain-Kreuzberg,0,a few days or more,No,Yes,14,No,No
+55,87.0,86,Friedrichshain-Kreuzberg,100,within an hour,Yes,Yes,255,Yes,No
+65,96.0,71,Mitte,20,within a day,Yes,Yes,36,No,No
+38,95.0,83,Friedrichshain-Kreuzberg,100,within a few hours,Yes,Yes,40,Yes,Yes
+60,97.0,89,Friedrichshain-Kreuzberg,43,within a day,No,Yes,7,No,No
+68,92.0,84,Neukölln,100,within an hour,Yes,Yes,138,Yes,No
+168,100.0,0,Charlottenburg-Wilm.,,,No,Yes,5,No,No
+30,100.0,0,Mitte,60,within a few hours,Yes,Yes,2,No,No
+22,84.0,0,Friedrichshain-Kreuzberg,,,No,Yes,6,No,No
+30,88.0,0,Neukölln,,,Yes,Yes,6,No,No
+89,93.0,76,Friedrichshain-Kreuzberg,100,within an hour,Yes,Yes,19,Yes,Yes
+90,100.0,83,Neukölln,,,Yes,Yes,1,No,No
+26,100.0,63,Treptow - Köpenick,75,within an hour,Yes,Yes,6,No,No
+30,100.0,0,Tempelhof - Schöneberg,,,No,Yes,1,Yes,No
+85,100.0,0,Pankow,,,Yes,Yes,2,No,No
+85,96.0,0,Pankow,,,Yes,Yes,10,No,No
+24,96.0,0,Neukölln,,,Yes,Yes,5,No,No
+54,100.0,0,Charlottenburg-Wilm.,67,,No,Yes,1,Yes,No
+40,72.0,85,Friedrichshain-Kreuzberg,91,within an hour,Yes,Yes,12,Yes,No
+95,99.0,0,Mitte,73,,Yes,Yes,22,No,No
+48,91.0,79,Mitte,100,within an hour,Yes,Yes,100,Yes,No
+30,100.0,0,Mitte,89,within an hour,Yes,Yes,1,Yes,No
+107,90.0,29,Mitte,100,within a few hours,Yes,Yes,113,Yes,No
+55,100.0,0,Pankow,,,No,Yes,10,No,No
+30,90.0,0,Tempelhof - Schöneberg,,,Yes,Yes,4,No,No
+165,100.0,9,Friedrichshain-Kreuzberg,100,within an hour,Yes,Yes,5,No,No
+21,100.0,0,Neukölln,,,Yes,Yes,3,No,No
+35,100.0,0,Neukölln,100,,No,Yes,1,Yes,No
+81,95.0,31,Pankow,,,Yes,Yes,19,No,No
+65,100.0,0,Mitte,,,No,Yes,1,No,No
+40,93.0,28,Lichtenberg,98,within an hour,Yes,Yes,45,No,Yes
+73,100.0,0,Neukölln,,,Yes,Yes,2,No,No
+45,87.0,0,Neukölln,,,Yes,Yes,3,No,No
+65,100.0,88,Mitte,0,within a day,Yes,Yes,3,No,No
+35,100.0,60,Neukölln,86,within an hour,Yes,Yes,1,Yes,No
+61,100.0,89,Neukölln,90,within an hour,Yes,Yes,1,Yes,No
+36,100.0,85,Neukölln,86,within an hour,Yes,Yes,6,Yes,No
+74,97.0,62,Neukölln,100,within an hour,No,Yes,12,Yes,No
+150,100.0,0,Friedrichshain-Kreuzberg,100,within a few hours,Yes,Yes,2,No,No
+50,100.0,0,Neukölln,,,Yes,Yes,10,Yes,No
+28,85.0,84,Mitte,95,within a few hours,No,Yes,8,Yes,No
+95,100.0,0,Friedrichshain-Kreuzberg,,,Yes,Yes,3,No,No
+60,90.0,71,Mitte,100,within an hour,No,Yes,5,Yes,No
+30,90.0,0,Neukölln,,,Yes,Yes,2,Yes,No
+60,92.0,29,Neukölln,70,within an hour,Yes,Yes,31,No,No
+52,100.0,0,Pankow,,,No,Yes,5,No,No
+35,96.0,89,Neukölln,27,within an hour,Yes,Yes,16,No,Yes
+92,100.0,0,Pankow,,,Yes,Yes,5,No,No
+129,95.0,82,Friedrichshain-Kreuzberg,68,within a few hours,Yes,Yes,8,No,No
+30,100.0,0,Friedrichshain-Kreuzberg,,,No,Yes,2,No,No
+85,100.0,0,Pankow,,,Yes,Yes,1,No,No
+16,97.0,0,Tempelhof - Schöneberg,77,within a day,No,Yes,22,No,No
+90,100.0,0,Friedrichshain-Kreuzberg,44,within a day,Yes,Yes,3,No,No
+13,100.0,0,Mitte,92,,Yes,Yes,2,No,No
+75,100.0,0,Neukölln,67,within a few hours,Yes,Yes,29,Yes,No
+35,96.0,0,Mitte,,,Yes,Yes,24,No,No
+45,97.0,79,Pankow,,,Yes,Yes,44,Yes,No
+25,100.0,0,Pankow,,,Yes,Yes,1,No,No
+90,98.0,51,Pankow,100,within an hour,Yes,Yes,16,Yes,No
+25,100.0,88,Charlottenburg-Wilm.,80,,Yes,Yes,4,No,Yes
+113,94.0,75,Friedrichshain-Kreuzberg,93,within an hour,Yes,Yes,323,No,Yes
+42,100.0,0,Charlottenburg-Wilm.,,,Yes,Yes,2,Yes,No
+56,98.0,87,Mitte,100,within a few hours,Yes,Yes,230,No,Yes
+25,94.0,0,Neukölln,,,Yes,Yes,10,No,No
+80,100.0,0,Neukölln,88,,Yes,Yes,6,Yes,No
+60,98.0,0,Friedrichshain-Kreuzberg,,,Yes,Yes,8,Yes,No
+89,100.0,0,Pankow,75,,Yes,Yes,5,No,No
+20,77.0,2,Mitte,96,within a few hours,Yes,Yes,13,Yes,No
+40,93.0,79,Lichtenberg,98,within an hour,Yes,Yes,34,No,Yes
+47,100.0,0,Mitte,,,No,Yes,1,No,No
+28,99.0,0,Friedrichshain-Kreuzberg,,,Yes,Yes,20,Yes,No
+75,99.0,41,Neukölln,64,within a day,Yes,Yes,32,No,Yes
+45,90.0,88,Friedrichshain-Kreuzberg,,,No,Yes,3,Yes,No
+85,100.0,54,Mitte,33,a few days or more,Yes,Yes,2,No,No
+75,99.0,0,Pankow,100,,Yes,Yes,29,No,Yes
+98,86.0,90,Mitte,100,within an hour,Yes,Yes,124,Yes,No
+139,99.0,72,Mitte,57,within an hour,Yes,Yes,86,No,Yes
+42,95.0,28,Charlottenburg-Wilm.,100,within an hour,Yes,Yes,159,Yes,Yes
+140,94.0,0,Friedrichshain-Kreuzberg,,,No,Yes,7,Yes,No
+150,94.0,0,Mitte,70,,Yes,Yes,16,No,No
+30,91.0,0,Mitte,,,Yes,Yes,14,No,No
+154,100.0,87,Pankow,,,Yes,Yes,1,No,No
+60,90.0,88,Neukölln,0,within a day,No,Yes,21,No,No
+130,96.0,66,Mitte,99,within an hour,Yes,Yes,132,Yes,No
+38,91.0,49,Reinickendorf,100,within an hour,Yes,Yes,242,Yes,No
+79,100.0,0,Lichtenberg,,,Yes,Yes,4,No,No
+68,79.0,89,Marzahn - Hellersdorf,100,,No,Yes,28,No,No
+125,93.0,86,Friedrichshain-Kreuzberg,99,within an hour,Yes,Yes,8,Yes,Yes
+40,60.0,0,Charlottenburg-Wilm.,,,Yes,Yes,1,Yes,No
+97,100.0,0,Charlottenburg-Wilm.,100,,Yes,Yes,9,Yes,No
+40,84.0,74,Mitte,100,within an hour,No,Yes,9,No,No
+35,90.0,0,Neukölln,,,Yes,Yes,4,No,No
+20,100.0,1,Mitte,100,within an hour,Yes,Yes,2,No,No
+114,100.0,89,Mitte,100,within an hour,Yes,Yes,2,Yes,No
+23,100.0,0,Neukölln,100,,No,Yes,2,Yes,No
+34,90.0,87,Charlottenburg-Wilm.,100,within an hour,Yes,Yes,350,Yes,No
+52,97.0,53,Pankow,100,within an hour,Yes,Yes,97,Yes,Yes
+70,100.0,42,Friedrichshain-Kreuzberg,100,,No,Yes,3,No,No
+225,89.0,53,Tempelhof - Schöneberg,97,within a few hours,Yes,Yes,44,Yes,No
+66,91.0,0,Pankow,,,Yes,Yes,13,Yes,No
+210,99.0,0,Pankow,33,,No,Yes,17,No,No
+12,76.0,89,Mitte,72,within a day,Yes,Yes,10,No,No
+31,87.0,6,Friedrichshain-Kreuzberg,44,within a day,Yes,Yes,3,No,No
+22,89.0,0,Mitte,,,No,Yes,11,No,No
+35,96.0,5,Neukölln,,,Yes,Yes,10,Yes,Yes
+50,100.0,0,Neukölln,83,,No,Yes,8,No,No
+79,98.0,53,Friedrichshain-Kreuzberg,100,within an hour,Yes,Yes,109,Yes,Yes
+50,98.0,0,Treptow - Köpenick,100,within a few hours,Yes,Yes,47,No,Yes
+17,80.0,0,Friedrichshain-Kreuzberg,,,Yes,Yes,4,No,No
+54,98.0,0,Friedrichshain-Kreuzberg,,,Yes,Yes,9,No,No
+39,98.0,0,Neukölln,0,,Yes,Yes,38,No,No
+32,96.0,71,Neukölln,87,within an hour,Yes,Yes,82,No,No
+65,93.0,75,Treptow - Köpenick,43,within a day,Yes,Yes,6,No,No
+39,96.0,14,Steglitz - Zehlendorf,83,,Yes,Yes,23,No,Yes
+60,100.0,29,Friedrichshain-Kreuzberg,75,within a few hours,Yes,Yes,1,No,No
+59,98.0,33,Mitte,100,within an hour,Yes,Yes,8,Yes,Yes
+231,100.0,80,Mitte,97,within an hour,Yes,Yes,15,Yes,No
+33,100.0,0,Reinickendorf,74,within an hour,No,Yes,1,Yes,No
+66,96.0,59,Friedrichshain-Kreuzberg,50,within a few hours,Yes,Yes,25,Yes,No
+20,92.0,0,Mitte,,,Yes,Yes,5,No,No
+19,100.0,0,Lichtenberg,,,No,Yes,3,Yes,No
+153,100.0,88,Pankow,100,,No,Yes,3,No,No
+59,94.0,67,Neukölln,96,within an hour,Yes,Yes,55,Yes,No
+50,98.0,0,Friedrichshain-Kreuzberg,100,within an hour,Yes,Yes,9,No,No
+25,100.0,0,Friedrichshain-Kreuzberg,78,within an hour,No,Yes,6,No,No
+30,100.0,29,Tempelhof - Schöneberg,100,within a day,No,Yes,1,Yes,No
+60,100.0,0,Mitte,,within a day,Yes,Yes,7,No,No
+19,100.0,0,Lichtenberg,40,,Yes,Yes,2,No,No
+106,100.0,0,Pankow,,,Yes,Yes,4,No,No
+27,60.0,60,Friedrichshain-Kreuzberg,78,within a few hours,Yes,Yes,3,No,No
+50,60.0,0,Pankow,,,No,Yes,2,No,No
+150,95.0,0,Pankow,100,,Yes,Yes,4,No,No
+117,97.0,83,Pankow,100,within an hour,Yes,Yes,102,Yes,Yes
+95,97.0,89,Friedrichshain-Kreuzberg,100,within a few hours,No,Yes,51,No,Yes
+40,100.0,0,Tempelhof - Schöneberg,,,Yes,Yes,3,No,No
+30,93.0,83,Pankow,67,within an hour,Yes,Yes,6,No,No
+21,98.0,0,Friedrichshain-Kreuzberg,100,within an hour,Yes,Yes,64,Yes,Yes
+22,90.0,0,Neukölln,,,No,Yes,3,No,No
+89,98.0,89,Friedrichshain-Kreuzberg,100,within a few hours,Yes,Yes,13,No,Yes
+307,93.0,0,Mitte,98,within an hour,Yes,Yes,9,Yes,Yes
+45,100.0,0,Mitte,,,No,Yes,2,Yes,No
+45,96.0,38,Tempelhof - Schöneberg,97,within an hour,Yes,Yes,255,Yes,Yes
+60,89.0,90,Pankow,15,a few days or more,Yes,Yes,15,No,No
+35,100.0,0,Friedrichshain-Kreuzberg,88,within a few hours,No,Yes,1,Yes,No
+80,95.0,84,Friedrichshain-Kreuzberg,100,within an hour,Yes,Yes,134,No,Yes
+128,97.0,0,Mitte,100,,Yes,Yes,6,No,No
+69,100.0,0,Pankow,100,,No,Yes,5,Yes,No
+60,100.0,0,Mitte,,,Yes,Yes,2,No,No
+90,75.0,90,Charlottenburg-Wilm.,100,a few days or more,No,Yes,8,No,No
+23,100.0,0,Mitte,58,,No,Yes,1,No,No
+200,100.0,89,Friedrichshain-Kreuzberg,,,Yes,Yes,2,No,No
+27,100.0,0,Mitte,0,,No,Yes,8,No,No
+130,93.0,0,Friedrichshain-Kreuzberg,,,Yes,Yes,3,No,No
+69,100.0,0,Treptow - Köpenick,33,within an hour,Yes,Yes,3,No,No
+36,100.0,0,Mitte,,,Yes,Yes,4,No,No
+231,93.0,62,Mitte,100,within an hour,Yes,Yes,70,Yes,No
+35,97.0,0,Friedrichshain-Kreuzberg,,,Yes,Yes,14,Yes,No
+40,100.0,0,Mitte,,,No,Yes,1,No,No
+35,92.0,0,Neukölln,33,,Yes,Yes,6,No,No
+79,100.0,64,Pankow,100,within a few hours,Yes,Yes,1,Yes,No
+106,94.0,42,Mitte,40,,Yes,Yes,38,No,No
+42,100.0,0,Mitte,100,,Yes,Yes,1,No,No
+200,96.0,90,Pankow,96,within a day,Yes,Yes,20,Yes,Yes
+55,99.0,59,Neukölln,67,within a day,Yes,Yes,39,No,Yes
+41,96.0,0,Neukölln,,,No,Yes,10,No,No
+75,90.0,17,Pankow,60,a few days or more,Yes,Yes,6,No,No
+53,93.0,83,Friedrichshain-Kreuzberg,100,within an hour,Yes,Yes,354,Yes,Yes
+20,100.0,0,Reinickendorf,100,within an hour,Yes,Yes,11,No,No
+150,99.0,0,Lichtenberg,,,Yes,Yes,17,No,No
+69,80.0,0,Neukölln,100,within an hour,No,Yes,1,Yes,No
+120,100.0,0,Friedrichshain-Kreuzberg,100,,Yes,Yes,2,Yes,No
+70,96.0,79,Friedrichshain-Kreuzberg,48,within a day,Yes,Yes,112,No,No
+140,99.0,13,Pankow,43,within a day,Yes,Yes,21,No,No
+81,86.0,0,Pankow,,,No,Yes,7,No,No
+45,95.0,0,Friedrichshain-Kreuzberg,,,Yes,Yes,8,No,No
+84,96.0,82,Friedrichshain-Kreuzberg,100,within a few hours,Yes,Yes,83,Yes,Yes
+25,98.0,2,Tempelhof - Schöneberg,88,within an hour,Yes,Yes,33,Yes,Yes
+45,97.0,0,Mitte,,,Yes,Yes,6,No,Yes
+89,100.0,90,Friedrichshain-Kreuzberg,68,within a few hours,Yes,Yes,2,No,No
+45,87.0,89,Charlottenburg-Wilm.,,a few days or more,Yes,Yes,20,No,No
+65,99.0,48,Pankow,100,within an hour,Yes,Yes,75,No,Yes
+90,100.0,88,Pankow,0,within a few hours,Yes,Yes,6,No,No
+20,96.0,0,Pankow,100,within an hour,Yes,Yes,40,Yes,Yes
+24,90.0,0,Lichtenberg,100,,Yes,Yes,2,Yes,No
+45,90.0,0,Friedrichshain-Kreuzberg,,,No,Yes,2,No,No
+152,100.0,72,Mitte,100,within a day,Yes,Yes,8,Yes,Yes
+1388,100.0,57,Mitte,100,within an hour,Yes,Yes,26,Yes,Yes
+70,98.0,63,Charlottenburg-Wilm.,79,within a day,Yes,Yes,79,No,Yes
+35,92.0,0,Neukölln,50,,No,Yes,5,No,Yes
+92,100.0,90,Charlottenburg-Wilm.,67,within a day,Yes,Yes,1,Yes,No
+60,90.0,52,Mitte,100,within an hour,Yes,Yes,326,Yes,No
+120,98.0,0,Friedrichshain-Kreuzberg,100,,Yes,Yes,12,No,No
+29,94.0,28,Pankow,25,a few days or more,No,Yes,7,No,No
+85,100.0,0,Friedrichshain-Kreuzberg,,,Yes,Yes,1,Yes,No
+35,90.0,0,Mitte,,,No,Yes,3,No,No
+77,97.0,89,Pankow,92,within an hour,Yes,Yes,36,No,Yes
+122,81.0,33,Mitte,100,within an hour,Yes,Yes,133,Yes,No
+49,100.0,60,Pankow,50,within a day,Yes,Yes,26,No,Yes
+162,89.0,78,Mitte,98,within an hour,Yes,Yes,65,Yes,No
+85,100.0,0,Pankow,,,No,Yes,2,No,No
+30,100.0,1,Friedrichshain-Kreuzberg,71,within a few hours,Yes,Yes,2,No,No
+41,95.0,0,Neukölln,,,No,Yes,183,Yes,No
+40,96.0,0,Pankow,100,,Yes,Yes,96,No,Yes
+22,95.0,51,Mitte,97,within an hour,No,Yes,11,No,No
+125,98.0,90,Friedrichshain-Kreuzberg,100,within an hour,Yes,Yes,8,Yes,No
+42,100.0,0,Mitte,,,Yes,Yes,2,No,No
+40,94.0,0,Pankow,50,,Yes,Yes,10,No,No
+76,88.0,30,Mitte,100,within an hour,Yes,Yes,90,Yes,No
+88,100.0,0,Neukölln,40,,Yes,Yes,13,No,Yes
+171,100.0,0,Charlottenburg-Wilm.,100,within a few hours,Yes,Yes,1,Yes,No
+139,100.0,0,Friedrichshain-Kreuzberg,,,Yes,Yes,1,No,No
+53,92.0,76,Tempelhof - Schöneberg,99,within an hour,No,Yes,242,Yes,No
+70,100.0,0,Friedrichshain-Kreuzberg,,,Yes,Yes,3,No,No
+36,100.0,0,Neukölln,33,,Yes,Yes,5,No,No
+40,100.0,0,Mitte,,,Yes,Yes,1,No,No
+110,93.0,82,Mitte,100,within a day,No,Yes,33,No,No
+71,96.0,81,Lichtenberg,100,within an hour,Yes,Yes,21,Yes,No
+29,84.0,0,Pankow,,,Yes,Yes,9,Yes,No
+69,85.0,60,Mitte,99,within an hour,Yes,Yes,41,Yes,No
+20,97.0,14,Lichtenberg,100,within an hour,Yes,Yes,66,Yes,Yes
+30,95.0,0,Tempelhof - Schöneberg,,,Yes,Yes,4,No,No
+30,100.0,0,Tempelhof - Schöneberg,,,Yes,Yes,3,No,No
+320,100.0,83,Charlottenburg-Wilm.,100,a few days or more,Yes,Yes,20,No,No
+64,99.0,0,Mitte,100,,Yes,Yes,191,Yes,Yes
+77,90.0,57,Mitte,28,within a few hours,Yes,Yes,6,No,Yes
+70,100.0,0,Lichtenberg,71,within a day,No,Yes,7,Yes,No
+98,88.0,60,Charlottenburg-Wilm.,100,within an hour,No,Yes,8,Yes,No
+180,94.0,60,Pankow,78,within a few hours,Yes,Yes,18,No,No
+25,96.0,0,Treptow - Köpenick,,,Yes,Yes,5,Yes,No
+80,75.0,0,Pankow,,,Yes,Yes,4,No,No
+28,92.0,0,Mitte,0,,Yes,Yes,47,Yes,No
+70,99.0,90,Charlottenburg-Wilm.,100,,Yes,Yes,16,No,Yes
+78,100.0,9,Mitte,100,,No,Yes,2,No,No
+100,96.0,14,Lichtenberg,50,within a day,Yes,Yes,9,No,Yes
+38,100.0,0,Friedrichshain-Kreuzberg,,,No,Yes,2,No,No
+36,96.0,0,Friedrichshain-Kreuzberg,,,Yes,Yes,27,Yes,No
+60,100.0,8,Lichtenberg,50,within a day,No,Yes,6,No,No
+15,100.0,0,Neukölln,50,,No,Yes,1,No,No
+34,97.0,60,Friedrichshain-Kreuzberg,0,within a day,Yes,Yes,44,No,Yes
+45,100.0,66,Neukölln,100,within an hour,Yes,Yes,2,Yes,No
+19,100.0,0,Neukölln,25,,Yes,Yes,3,No,No
+60,100.0,12,Friedrichshain-Kreuzberg,42,within a day,No,Yes,8,No,No
+30,90.0,0,Friedrichshain-Kreuzberg,,,No,Yes,3,Yes,No
+50,100.0,0,Friedrichshain-Kreuzberg,100,,No,Yes,5,No,No
+45,100.0,0,Neukölln,0,,No,Yes,1,Yes,No
+35,91.0,0,Neukölln,95,,No,Yes,11,No,No
+35,100.0,0,Friedrichshain-Kreuzberg,,,Yes,Yes,1,No,No
+80,92.0,3,Lichtenberg,100,within an hour,Yes,Yes,45,Yes,No
+30,94.0,90,Friedrichshain-Kreuzberg,40,,No,Yes,25,No,No
+45,88.0,81,Tempelhof - Schöneberg,98,within an hour,Yes,Yes,61,Yes,No
+48,90.0,0,Neukölln,,,Yes,Yes,2,No,No
+80,100.0,0,Friedrichshain-Kreuzberg,100,,Yes,Yes,6,Yes,No
+35,100.0,89,Pankow,88,,No,Yes,21,No,Yes
+75,100.0,70,Neukölln,83,within a few hours,Yes,Yes,7,No,No
+29,100.0,0,Neukölln,,,No,Yes,6,No,No
+55,99.0,89,Friedrichshain-Kreuzberg,69,,No,Yes,67,No,Yes
+45,100.0,13,Neukölln,100,within an hour,Yes,Yes,1,No,No
+80,93.0,81,Mitte,100,within an hour,Yes,Yes,21,Yes,No
+45,89.0,89,Tempelhof - Schöneberg,20,a few days or more,No,Yes,36,No,No
+41,94.0,0,Friedrichshain-Kreuzberg,,,Yes,Yes,7,No,No
+60,99.0,24,Friedrichshain-Kreuzberg,13,a few days or more,Yes,Yes,18,No,No
+45,100.0,90,Mitte,0,,No,Yes,2,Yes,No
+29,93.0,28,Charlottenburg-Wilm.,100,within an hour,No,Yes,71,Yes,No
+55,90.0,0,Neukölln,,,No,Yes,5,No,No
+90,100.0,28,Mitte,100,within an hour,Yes,Yes,7,Yes,Yes
+65,96.0,0,Mitte,,,Yes,Yes,6,No,No
+22,100.0,0,Pankow,,,Yes,Yes,7,No,No
+45,96.0,0,Neukölln,100,,Yes,Yes,22,No,Yes
+90,95.0,28,Pankow,,within a day,No,Yes,12,No,No
+35,89.0,0,Friedrichshain-Kreuzberg,47,within a day,Yes,Yes,11,No,No
+74,94.0,69,Charlottenburg-Wilm.,100,within an hour,No,Yes,73,Yes,Yes
+100,80.0,90,Pankow,17,,No,Yes,35,No,No
+35,94.0,0,Mitte,84,within a day,Yes,Yes,18,No,No
+63,91.0,54,Pankow,99,within an hour,Yes,Yes,300,Yes,No
+60,97.0,0,Neukölln,100,within a few hours,Yes,Yes,20,No,No
+20,90.0,3,Charlottenburg-Wilm.,81,,Yes,Yes,40,No,No
+110,100.0,0,Friedrichshain-Kreuzberg,,,No,Yes,2,Yes,No
+23,100.0,0,Neukölln,,,Yes,Yes,9,No,No
+27,100.0,0,Mitte,,,No,Yes,2,No,No
+32,97.0,0,Friedrichshain-Kreuzberg,0,within an hour,Yes,Yes,86,No,No
+39,92.0,15,Charlottenburg-Wilm.,35,a few days or more,Yes,Yes,12,No,No
+25,100.0,0,Mitte,,,Yes,Yes,2,Yes,No
+55,97.0,90,Friedrichshain-Kreuzberg,,,Yes,Yes,14,No,No
+93,96.0,56,Mitte,100,within a few hours,No,Yes,5,Yes,No
+65,92.0,49,Friedrichshain-Kreuzberg,100,within an hour,Yes,Yes,52,Yes,Yes
+73,93.0,0,Mitte,100,,No,Yes,66,No,No
+95,74.0,90,Mitte,98,within an hour,Yes,Yes,7,No,No
+165,97.0,0,Pankow,,,No,Yes,20,No,No
+46,73.0,0,Treptow - Köpenick,89,within an hour,Yes,Yes,3,Yes,No
+20,100.0,0,Neukölln,,,Yes,Yes,3,No,No
+75,100.0,0,Friedrichshain-Kreuzberg,,,Yes,Yes,12,Yes,No
+42,100.0,1,Mitte,92,within a few hours,Yes,Yes,8,Yes,Yes
+35,99.0,0,Friedrichshain-Kreuzberg,75,within an hour,Yes,Yes,20,Yes,No
+80,93.0,40,Pankow,0,,Yes,Yes,14,No,No
+40,97.0,0,Friedrichshain-Kreuzberg,,,No,Yes,8,Yes,No
+100,95.0,0,Friedrichshain-Kreuzberg,100,,Yes,Yes,4,No,No
+22,100.0,0,Neukölln,,,Yes,Yes,2,No,No
+67,90.0,6,Pankow,67,a few days or more,Yes,Yes,10,No,No
+68,99.0,28,Pankow,87,,Yes,Yes,32,No,Yes
+60,100.0,89,Charlottenburg-Wilm.,84,within an hour,Yes,Yes,2,No,No
+27,99.0,0,Mitte,100,within an hour,No,Yes,34,Yes,Yes
+60,80.0,67,Marzahn - Hellersdorf,95,within an hour,Yes,Yes,1,Yes,No
+85,100.0,58,Mitte,33,,Yes,Yes,5,No,No
+65,100.0,6,Mitte,50,within a day,Yes,Yes,1,Yes,No
+278,100.0,90,Friedrichshain-Kreuzberg,89,within a few hours,Yes,Yes,4,No,No
+34,94.0,0,Treptow - Köpenick,,,Yes,Yes,18,Yes,Yes
+40,100.0,71,Pankow,70,within a few hours,Yes,Yes,2,No,No
+105,100.0,0,Neukölln,,,Yes,Yes,2,No,No
+20,100.0,0,Friedrichshain-Kreuzberg,100,,No,Yes,1,No,No
+80,80.0,85,Mitte,86,within an hour,Yes,Yes,1,No,No
+14,80.0,89,Mitte,72,within a day,Yes,Yes,3,No,No
+21,85.0,0,Mitte,,,Yes,Yes,4,No,No
+40,92.0,34,Friedrichshain-Kreuzberg,50,within a few hours,Yes,Yes,16,No,No
+17,95.0,0,Charlottenburg-Wilm.,91,,Yes,Yes,12,Yes,No
+88,96.0,89,Mitte,98,within an hour,Yes,Yes,9,Yes,Yes
+50,100.0,0,Pankow,,a few days or more,Yes,Yes,2,No,No
+75,96.0,0,Friedrichshain-Kreuzberg,,,Yes,Yes,12,Yes,No
+59,89.0,74,Mitte,100,within an hour,Yes,Yes,140,Yes,No
+59,97.0,0,Friedrichshain-Kreuzberg,100,,Yes,Yes,46,Yes,Yes
+60,99.0,49,Treptow - Köpenick,91,within an hour,Yes,Yes,87,No,Yes
+41,100.0,0,Pankow,0,within a few hours,Yes,Yes,4,No,No
+120,95.0,0,Neukölln,74,within a day,Yes,Yes,75,No,No
+46,96.0,0,Neukölln,,,No,Yes,5,Yes,No
+43,98.0,57,Pankow,70,,No,Yes,11,No,Yes
+22,100.0,0,Mitte,,,Yes,Yes,1,No,No
+33,98.0,31,Charlottenburg-Wilm.,100,within an hour,Yes,Yes,96,Yes,Yes
+14,100.0,0,Pankow,,,Yes,Yes,3,Yes,No
+66,91.0,61,Tempelhof - Schöneberg,94,within a day,Yes,Yes,7,Yes,No
+30,100.0,16,Friedrichshain-Kreuzberg,71,within a day,No,Yes,3,No,No
+189,100.0,59,Pankow,100,,Yes,Yes,7,Yes,No
+40,98.0,0,Tempelhof - Schöneberg,,,Yes,Yes,9,Yes,No
+72,100.0,76,Mitte,0,,Yes,Yes,15,No,No
+120,100.0,0,Tempelhof - Schöneberg,,,No,Yes,10,Yes,No
+115,98.0,0,Mitte,100,,Yes,Yes,53,No,No
+25,100.0,0,Neukölln,,,Yes,Yes,1,No,No
+35,97.0,0,Neukölln,100,,Yes,Yes,60,Yes,Yes
+50,100.0,0,Mitte,100,,Yes,Yes,6,No,No
+34,100.0,0,Mitte,,,Yes,Yes,7,No,No
+76,95.0,62,Pankow,36,within a few hours,Yes,Yes,4,No,No
+20,100.0,0,Neukölln,,,Yes,Yes,8,Yes,No
+52,100.0,0,Friedrichshain-Kreuzberg,,,Yes,Yes,1,No,No
+62,100.0,0,Pankow,100,,Yes,Yes,11,Yes,Yes
+80,100.0,0,Neukölln,,,Yes,Yes,9,No,No
+149,75.0,0,Charlottenburg-Wilm.,91,within an hour,Yes,Yes,8,Yes,No
+53,98.0,89,Mitte,98,within an hour,Yes,Yes,125,Yes,Yes
+60,97.0,0,Tempelhof - Schöneberg,59,,No,Yes,6,No,Yes
+55,92.0,0,Pankow,,within a day,Yes,Yes,6,No,No
+26,88.0,2,Mitte,96,within a few hours,Yes,Yes,21,Yes,No
+345,96.0,0,Pankow,100,within an hour,Yes,Yes,46,Yes,Yes
+129,97.0,39,Pankow,100,within an hour,Yes,Yes,94,Yes,No
+25,92.0,0,Friedrichshain-Kreuzberg,,,Yes,Yes,5,Yes,No
+55,99.0,90,Mitte,86,,Yes,Yes,15,No,No
+39,99.0,64,Friedrichshain-Kreuzberg,87,within a few hours,Yes,Yes,137,No,Yes
+25,97.0,0,Mitte,98,,Yes,Yes,97,No,Yes
+35,94.0,0,Neukölln,79,,No,Yes,57,No,No
+68,97.0,53,Mitte,97,within an hour,Yes,Yes,72,Yes,Yes
+22,92.0,0,Neukölln,,,No,Yes,26,No,No
+20,90.0,0,Treptow - Köpenick,,,Yes,Yes,3,No,No
+36,94.0,0,Mitte,,,Yes,Yes,96,Yes,No
+107,100.0,79,Pankow,100,within an hour,Yes,Yes,4,Yes,No
+23,100.0,0,Friedrichshain-Kreuzberg,,,Yes,Yes,2,No,No
+40,95.0,0,Friedrichshain-Kreuzberg,,,Yes,Yes,25,No,No
+675,99.0,50,Friedrichshain-Kreuzberg,100,,Yes,Yes,54,No,No
+50,98.0,0,Pankow,,,Yes,Yes,39,No,No
+80,100.0,71,Friedrichshain-Kreuzberg,98,within an hour,Yes,Yes,5,Yes,Yes
+200,96.0,27,Mitte,56,,Yes,Yes,23,No,No
+42,100.0,0,Pankow,79,within an hour,Yes,Yes,1,No,No
+29,97.0,82,Pankow,100,within a day,Yes,Yes,26,Yes,No
+32,97.0,89,Neukölln,54,within an hour,Yes,Yes,48,No,No
+90,94.0,68,Pankow,100,within an hour,Yes,Yes,76,Yes,No
+55,83.0,90,Friedrichshain-Kreuzberg,100,a few days or more,Yes,Yes,21,No,No
+42,100.0,77,Lichtenberg,80,,No,Yes,3,No,No
+70,84.0,0,Friedrichshain-Kreuzberg,,,Yes,Yes,5,No,No
+33,94.0,62,Friedrichshain-Kreuzberg,,,No,Yes,60,No,No
+250,100.0,49,Charlottenburg-Wilm.,100,within an hour,Yes,Yes,6,Yes,No
+30,93.0,0,Tempelhof - Schöneberg,,,Yes,Yes,3,Yes,No
+159,96.0,88,Tempelhof - Schöneberg,,,Yes,Yes,6,No,No
+100,77.0,25,Mitte,100,within an hour,Yes,Yes,6,Yes,No
+80,100.0,4,Mitte,43,within a day,Yes,Yes,2,No,No
+48,89.0,60,Mitte,100,within an hour,Yes,Yes,110,Yes,No
+100,97.0,51,Neukölln,0,a few days or more,Yes,Yes,17,No,No
+44,100.0,0,Mitte,,,No,Yes,1,No,No
+65,97.0,88,Friedrichshain-Kreuzberg,67,within an hour,Yes,Yes,12,No,Yes
+29,73.0,0,Neukölln,,,Yes,Yes,3,Yes,No
+46,100.0,0,Tempelhof - Schöneberg,,,Yes,Yes,5,No,No
+50,98.0,0,Lichtenberg,90,,Yes,Yes,11,No,Yes
+47,100.0,0,Friedrichshain-Kreuzberg,,,Yes,Yes,1,Yes,No
+69,99.0,36,Pankow,100,within an hour,No,Yes,167,Yes,Yes
+85,98.0,72,Tempelhof - Schöneberg,99,within an hour,Yes,Yes,315,Yes,Yes
+70,96.0,0,Friedrichshain-Kreuzberg,,,No,Yes,5,No,No
+70,100.0,0,Pankow,,,Yes,Yes,4,No,No
+46,93.0,14,Friedrichshain-Kreuzberg,,,No,Yes,216,Yes,No
+59,92.0,14,Steglitz - Zehlendorf,89,within an hour,No,Yes,23,Yes,No
+61,100.0,0,Tempelhof - Schöneberg,100,,Yes,Yes,8,No,No
+22,96.0,50,Mitte,30,within a day,No,Yes,5,No,No
+71,98.0,18,Friedrichshain-Kreuzberg,95,within a few hours,Yes,Yes,132,No,Yes
+48,97.0,0,Charlottenburg-Wilm.,33,within a few hours,Yes,Yes,62,No,No
+70,89.0,0,Mitte,100,,No,Yes,12,No,No
+20,100.0,87,Marzahn - Hellersdorf,50,a few days or more,No,Yes,7,No,No
+70,96.0,0,Friedrichshain-Kreuzberg,85,,Yes,Yes,11,No,No
+35,94.0,85,Mitte,41,within a day,Yes,Yes,27,No,No
+162,90.0,30,Friedrichshain-Kreuzberg,44,within a day,Yes,Yes,5,No,Yes
+25,97.0,3,Charlottenburg-Wilm.,100,within an hour,Yes,Yes,91,Yes,Yes
+35,95.0,0,Pankow,,,Yes,Yes,8,Yes,No
+49,94.0,30,Mitte,86,within a day,Yes,Yes,202,No,Yes
+85,80.0,0,Friedrichshain-Kreuzberg,50,,No,Yes,1,No,No
+44,90.0,86,Pankow,100,within an hour,Yes,Yes,63,Yes,No
+312,98.0,77,Neukölln,93,within an hour,Yes,Yes,260,No,Yes
+28,100.0,0,Friedrichshain-Kreuzberg,,,Yes,Yes,1,No,No
+34,95.0,2,Pankow,81,within an hour,Yes,Yes,11,No,No
+73,98.0,0,Pankow,100,within an hour,Yes,Yes,25,No,No
+45,100.0,0,Lichtenberg,,,Yes,Yes,3,No,No
+35,100.0,0,Tempelhof - Schöneberg,,,No,Yes,2,No,No
+50,80.0,0,Friedrichshain-Kreuzberg,,,Yes,Yes,1,No,No
+57,88.0,63,Friedrichshain-Kreuzberg,96,within an hour,Yes,Yes,67,Yes,No
+115,96.0,75,Pankow,99,within an hour,Yes,Yes,16,Yes,Yes
+62,98.0,2,Pankow,86,within a few hours,No,Yes,38,No,Yes
+80,93.0,59,Pankow,100,within a day,No,Yes,12,Yes,No
+50,80.0,0,Lichtenberg,,,No,Yes,3,Yes,No
+90,100.0,67,Steglitz - Zehlendorf,100,within a few hours,Yes,Yes,15,No,Yes
+30,85.0,0,Neukölln,95,,No,Yes,4,Yes,No
+98,93.0,0,Pankow,,,Yes,Yes,6,No,No
+29,100.0,0,Charlottenburg-Wilm.,,,Yes,Yes,5,Yes,No
+32,100.0,0,Pankow,100,,Yes,Yes,2,Yes,No
+115,80.0,0,Neukölln,,,No,Yes,1,Yes,No
+70,100.0,53,Tempelhof - Schöneberg,100,within an hour,Yes,Yes,1,Yes,Yes
+25,98.0,0,Friedrichshain-Kreuzberg,,,Yes,Yes,16,No,No
+47,100.0,88,Friedrichshain-Kreuzberg,71,within a day,Yes,Yes,14,No,Yes
+50,100.0,90,Friedrichshain-Kreuzberg,67,,No,Yes,1,Yes,No
+55,100.0,54,Friedrichshain-Kreuzberg,80,,Yes,Yes,6,No,No
+30,94.0,0,Lichtenberg,50,within an hour,Yes,Yes,7,No,No
+78,97.0,87,Friedrichshain-Kreuzberg,100,a few days or more,Yes,Yes,20,No,No
+20,90.0,0,Mitte,,,Yes,Yes,10,No,No
+30,93.0,1,Tempelhof - Schöneberg,60,within a few hours,Yes,Yes,3,No,No
+40,98.0,0,Mitte,60,within an hour,Yes,Yes,58,No,No
+38,98.0,0,Neukölln,,,No,Yes,12,Yes,No
+95,97.0,1,Friedrichshain-Kreuzberg,50,within an hour,Yes,Yes,58,No,No
+70,100.0,0,Neukölln,80,a few days or more,Yes,Yes,4,Yes,No
+40,95.0,10,Mitte,100,within an hour,Yes,Yes,48,Yes,Yes
+36,92.0,29,Neukölln,94,within an hour,Yes,Yes,20,Yes,No
+29,93.0,42,Friedrichshain-Kreuzberg,66,within a few hours,Yes,Yes,183,No,Yes
+30,93.0,0,Reinickendorf,97,within a few hours,Yes,Yes,33,No,No
+49,94.0,0,Charlottenburg-Wilm.,100,,Yes,Yes,32,No,No
+40,93.0,63,Friedrichshain-Kreuzberg,59,within a few hours,Yes,Yes,20,No,No
+79,95.0,5,Pankow,91,within a few hours,No,Yes,14,No,No
+81,100.0,0,Charlottenburg-Wilm.,88,within a day,Yes,Yes,25,No,Yes
+40,98.0,0,Mitte,100,,Yes,Yes,37,No,No
+70,100.0,0,Neukölln,33,within an hour,Yes,Yes,2,No,No
+75,100.0,39,Steglitz - Zehlendorf,87,within a few hours,Yes,Yes,9,No,Yes
+37,100.0,0,Neukölln,0,,No,Yes,3,No,No
+83,100.0,89,Neukölln,48,within an hour,Yes,Yes,11,No,No
+50,100.0,90,Mitte,63,,No,Yes,1,No,No
+80,82.0,19,Tempelhof - Schöneberg,92,within a day,No,Yes,21,No,No
+55,100.0,0,Friedrichshain-Kreuzberg,67,,Yes,Yes,1,No,No
+25,100.0,0,Mitte,33,within a day,Yes,Yes,4,No,No
+40,93.0,0,Mitte,0,within a day,No,Yes,3,No,No
+20,100.0,0,Steglitz - Zehlendorf,,,Yes,Yes,2,No,No
+150,100.0,89,Pankow,,,Yes,Yes,1,No,No
+42,90.0,0,Friedrichshain-Kreuzberg,0,,No,Yes,3,No,No
+75,96.0,0,Pankow,,,No,Yes,5,No,No
+35,95.0,90,Friedrichshain-Kreuzberg,64,a few days or more,No,Yes,4,No,No
+77,90.0,0,Pankow,,,Yes,Yes,2,No,No
+58,92.0,89,Pankow,32,a few days or more,Yes,Yes,14,No,No
+70,100.0,0,Lichtenberg,86,,Yes,Yes,17,No,Yes
+110,98.0,79,Tempelhof - Schöneberg,100,within an hour,Yes,Yes,115,Yes,Yes
+62,100.0,90,Friedrichshain-Kreuzberg,33,,Yes,Yes,4,Yes,No
+75,99.0,0,Mitte,94,within an hour,Yes,Yes,48,No,Yes
+75,98.0,65,Friedrichshain-Kreuzberg,100,within an hour,Yes,Yes,19,Yes,Yes
+80,80.0,60,Friedrichshain-Kreuzberg,,,Yes,Yes,2,No,No
+28,90.0,0,Steglitz - Zehlendorf,100,within a day,Yes,Yes,2,No,No
+90,98.0,27,Treptow - Köpenick,100,within a day,Yes,Yes,10,Yes,No
+115,93.0,0,Charlottenburg-Wilm.,91,,Yes,Yes,8,No,No
+71,88.0,90,Mitte,99,within an hour,Yes,Yes,63,Yes,No
+40,96.0,0,Tempelhof - Schöneberg,100,within a day,Yes,Yes,16,No,No
+74,97.0,29,Friedrichshain-Kreuzberg,67,,No,Yes,6,No,No
+54,94.0,60,Tempelhof - Schöneberg,93,within an hour,No,Yes,7,Yes,No
+111,99.0,76,Pankow,100,within an hour,Yes,Yes,29,Yes,Yes
+22,95.0,73,Charlottenburg-Wilm.,93,within an hour,Yes,Yes,45,No,Yes
+50,98.0,0,Mitte,,,Yes,Yes,8,No,Yes
+58,95.0,0,Neukölln,,,No,Yes,4,No,No
+30,100.0,0,Charlottenburg-Wilm.,80,within an hour,Yes,Yes,4,No,No
+25,100.0,2,Neukölln,60,a few days or more,Yes,Yes,9,No,No
+45,100.0,0,Pankow,100,,Yes,Yes,1,No,No
+106,60.0,90,Mitte,91,within an hour,Yes,Yes,1,Yes,No
+49,100.0,0,Mitte,,,No,Yes,3,No,No
+31,100.0,0,Neukölln,91,within an hour,Yes,Yes,8,No,Yes
+40,100.0,0,Pankow,100,within a few hours,Yes,Yes,3,No,No
+79,100.0,0,Neukölln,100,within a few hours,Yes,Yes,1,No,No
+60,100.0,0,Friedrichshain-Kreuzberg,100,within a few hours,Yes,Yes,3,No,No
+49,98.0,6,Friedrichshain-Kreuzberg,61,within a few hours,Yes,Yes,11,No,Yes
+65,100.0,84,Friedrichshain-Kreuzberg,87,within a day,No,Yes,24,No,Yes
+45,80.0,0,Neukölln,,,No,Yes,2,Yes,No
+29,100.0,0,Neukölln,100,,Yes,Yes,2,Yes,No
+39,88.0,9,Charlottenburg-Wilm.,100,within an hour,Yes,Yes,58,Yes,No
+50,80.0,0,Friedrichshain-Kreuzberg,80,within a day,Yes,Yes,6,No,No
+50,100.0,0,Steglitz - Zehlendorf,,,No,Yes,28,Yes,No
+220,99.0,89,Pankow,94,within an hour,Yes,Yes,36,No,Yes
+15,100.0,0,Friedrichshain-Kreuzberg,,,No,Yes,1,Yes,No
+39,70.0,51,Spandau,64,within a few hours,Yes,Yes,4,No,No
+55,100.0,0,Friedrichshain-Kreuzberg,,,Yes,Yes,2,No,No
+127,100.0,88,Mitte,79,within an hour,Yes,Yes,2,No,Yes
+69,97.0,75,Treptow - Köpenick,99,within a day,Yes,Yes,12,No,Yes
+36,89.0,24,Neukölln,81,within an hour,Yes,Yes,19,No,No
+25,100.0,0,Lichtenberg,50,,No,Yes,1,No,No
