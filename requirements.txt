@@ -2,3 +2,6 @@ streamlit
 pandas
 altair
 wordcloud
+numpy
+pydeck
+plotly-express
